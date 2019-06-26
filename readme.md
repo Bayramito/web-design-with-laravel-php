@@ -2,6 +2,10 @@
 
 This is a single page web design example
 
+to run a Laravel project `php artisan serve` on terminal  
+If you also wan't to check your project on your mobile device you can  
+simply run `php artisan serve --host=0.0.0.0` on your terminal.
+
 ## Used Technologies
 
 PHP  
